@@ -38,3 +38,4 @@ Conclusion
 This task provided a hands-on introduction to setting up a cloud storage solution using AWS S3. It involved creating a unique bucket, uploading an image file, and configuring the necessary permissions to ensure the data was protected. The process demonstrated the simplicity and flexibility of AWS S3, allowing users to manage storage with ease while maintaining control over access. Through this setup, I gained practical experience with the core features of AWS S3 and its permissions model, which will be valuable for future cloud-based tasks.
 
 **Output of the Task**:
+<img width="941" alt="Image" src="https://github.com/user-attachments/assets/d7d5055f-6f82-4991-b58b-a93436b0d854" />
